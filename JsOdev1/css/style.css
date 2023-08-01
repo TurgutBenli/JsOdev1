@@ -1,0 +1,34 @@
+.mainText {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 50px;
+    
+    letter-spacing: 7px;
+    margin-top: 50px;
+}
+
+.clock {
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 60px;
+    
+    letter-spacing: 7px;
+  }
+
+.text2 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 40px;
+  
+  letter-spacing: 7px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.bodyText {
+    font-family: 'Lumanosimo', cursive;
+}
+
